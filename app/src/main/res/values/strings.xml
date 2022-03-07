@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_text">Roll the Dice!!</string>
+    <string name="notification_channel_id">Dice_Ch</string>
+    <string name="notification_channel_name">Dice_Ch</string>
+    <string name="notification_Name">Dice Rolled</string>
+</resources>
